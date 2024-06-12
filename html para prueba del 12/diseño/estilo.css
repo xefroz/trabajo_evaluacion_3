@@ -1,0 +1,96 @@
+#fondo{
+    background-color: #F4E9CD    ;
+
+}
+
+#boton{
+    background-color: #9DBEBB    ;
+    color: #031926 ;
+    border: #77ACA2;
+    font-family: 'roboto';
+}
+
+#font{
+    font-family: 'roboto';
+}
+
+#input-contraseña{
+    font-family: 'roboto';
+
+}
+
+#input-nombre{
+    font-family: 'roboto';
+}
+
+#input-contraseña2{
+    font-family: 'roboto';
+}
+
+#input-telefono{
+    font-family: 'roboto';
+}
+
+#input-pagina{
+    font-family: 'roboto';
+}
+
+#input-direccion{
+    font-family: 'roboto';
+}
+
+
+#li{
+    font-family: 'roboto';
+}
+
+#lu{
+    font-family: 'roboto';
+}
+
+#input-pasatiempo{
+    font-family: 'roboto';
+}
+
+#error-nombre{
+    font-family: 'roboto';
+}
+
+#error-contraseña{
+    font-family: 'roboto';
+}
+
+#error-contraseña2{
+    font-family: 'roboto';
+}
+
+#error-telefono{
+    font-family: 'roboto';
+}
+
+#error-pagina{
+    font-family: 'roboto';
+}
+
+#error-direccion{
+    font-family: 'roboto';
+}
+
+#error-comuna{
+    font-family: 'roboto';
+}
+
+#error-pasatiempo{
+    font-family: 'roboto';
+}
+
+#h1{
+    font-family: 'roboto';
+    text-align: center;
+    
+}
+#p{
+    font-family: 'roboto';
+    text-align: center;
+
+}
